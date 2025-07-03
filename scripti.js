@@ -217,12 +217,6 @@ function gameOver() {
 
 
 
-
-
-
-
-
-
-
+})
 
 })
